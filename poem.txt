@@ -1,2 +1,5 @@
 tinkle tinkle little star
 butterfly
+
+parrot
+bean
